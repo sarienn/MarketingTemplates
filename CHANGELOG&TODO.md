@@ -16,6 +16,6 @@
 - [ ] Look into editable infographics maybe?
 
 ### Done/ Changelog
-- [x] Much improved the Steam STore Page guide, with sizes and examples and also the elusive description banner
+- [x] Much improved the Steam Store Page guide, with sizes and examples and also the elusive description banner
 - [x] Add a changelog / To Do
 
