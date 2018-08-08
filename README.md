@@ -56,12 +56,12 @@ Accepted formats: JPG, PNG
 ### Steam Store Bundle
 
 Accepted formats: JPG, PNG
-* package header image: '707 x 232 px'
-* header capsule image: '460 x 215 px'
-* small capsule image: '231 x 87 px'
-* large capsule image: '467 x 181 px'
-* main capsule image: '616 x 353 px'
-* page background: '1438 x 810 px'
+* package header image: `707 x 232 px`
+* header capsule image: `460 x 215 px`
+* small capsule image: `231 x 87 px`
+* large capsule image: `467 x 181 px`
+* main capsule image: `616 x 353 px`
+* page background: `1438 x 810 px`
 
 
 <br/>
