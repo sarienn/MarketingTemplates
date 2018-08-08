@@ -1,5 +1,4 @@
 ### To-do's
-- [ ] Add Steam Store Bundle size guide
 - [ ] Add Twitch size guide
 - [ ] Add itch.io size guide
 - [ ] Add Game Jolt size guide
@@ -14,6 +13,13 @@
 - [ ] Look into editable infographics maybe?
 
 ### Done/ Changelog
+- [x] Add Steam Store Bundle template
+- [x] Add Discord template
+- [x] Add Instagram template
+- [x] Add Pinterest template
+- [x] Add LinkedIn template
+- [x] Add PressKit() template
+- [x] Add Google AdWords template
 - [X] Update IndieGame_Marketing_SizeGuide to Basic Pack (Steam, Twitter, Facebook)
 - [x] Add guide checklist in .pdf and .xls format (for easy use & import)
 - [x] Will Not Do. Turns out it's a bad idea ---> Add example graphics in all size guides (gradual update)
