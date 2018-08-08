@@ -1,4 +1,5 @@
 ### To-do's
+- [ ] Add Steam Store Bundle size guide
 - [ ] Add Twitch size guide
 - [ ] Add itch.io size guide
 - [ ] Add Game Jolt size guide
