@@ -104,6 +104,18 @@ Accepted formats: JPG, GIF, BMP, PNG
 
 
 <br/>
+### Twitch
+
+Accepted formats: JPEG, PNG, GIF
+
+* profile picture: `256 x 256 px`
+* profile banner: `1200 x 380 px`
+* video player banner (Channel & Videos): `1920 x 1080 px`
+* event image (premiere): `676 x 380 px`
+
+
+
+<br/>
 
 ### Reddit
 
