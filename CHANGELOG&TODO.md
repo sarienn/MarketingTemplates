@@ -1,5 +1,5 @@
 ### To-do's
-- [ ] Add Twitch size guide
+
 - [ ] Add itch.io size guide
 - [ ] Add Game Jolt size guide
 - [ ] Add Oculus size guide (if possible - must ask them!)
@@ -13,6 +13,7 @@
 - [ ] Look into editable infographics maybe?
 
 ### Done/ Changelog
+- [x] Add Twitch size guide
 - [x] Add Steam Store Bundle template
 - [x] Add Discord template
 - [x] Add Instagram template
