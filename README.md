@@ -1,6 +1,6 @@
-Originally posted on http://www.laurabularca.com/2018/08/a-handy-art-assets-guide-for-social-media-presence/
+Originally posted on http://www.laurabularca.com/2018/08/an-indie-game-marketing-size-guide-for-social-media-presence/
 
-# A HANDY ART ASSETS GUIDE FOR SOCIAL MEDIA PRESENCE
+# An indie game marketing size guide for social media presence
 
 Building an online presence for your game is a difficult and time consuming task. It’s challenging to build interesting content that will gather attention, but that’s just one part of it. There is a huge amount of work just to get your game’s store, Facebook, Twitter, etc. up and running, and a subset of that work is creating graphical assets that must comply to the size specifications of each online service. This means A LOT of different art asset sizes which, as a game developer, I did on a case by case basis – and that was a huge time sync. This is why I am making this guide and aim to update it regularly, so that asset creation for online social presence can be a little bit less frustrating task.
 
