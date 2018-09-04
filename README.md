@@ -203,6 +203,7 @@ Accepted formats: GIF, JPG, PNG
 
 
 <br/>
+
 ### Google Play
 
 Accepted formats: JPEG, 24 bit PNG (no alpha), 32 bit PNG (no alpha)
