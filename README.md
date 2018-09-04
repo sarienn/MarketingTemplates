@@ -203,6 +203,18 @@ Accepted formats: GIF, JPG, PNG
 
 
 <br/>
+### Google Play
+
+Accepted formats: JPEG, 24 bit PNG (no alpha), 32 bit PNG (no alpha)
+
+* screenshots: `any size length min 320px max 3840`
+* high-res icon: `512 x 512 px`
+* feature graphic: `1024 x 500 px`
+* promo graphic: `180 x 120 px`
+* TV banner: `1280 x 720 px`
+* Daydream 360 degree stereoscopic image: `4096 x 4096 px`
+
+<br/>
 
 ## THE SOURCE FILES
 
