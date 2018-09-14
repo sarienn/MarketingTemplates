@@ -217,6 +217,23 @@ Accepted formats: JPEG, 24 bit PNG (no alpha), 32 bit PNG (no alpha)
 
 <br/>
 
+### Nvidia Developer Content Portal
+
+Accepted formats: No mention except PNG
+
+* game box art: `628 x 888 px`
+* game icon: `64 x 64 px`
+* key icon: `1024 x 1024 px`
+* key image: `600 x 600 px`
+* TV banner: `1920 x 1080 px`
+* feature image: `840 x 360 px`
+* hero image: `1920 x 1080 px`
+* screenshot: `1920 x 1080 px`
+* ansel 360 image `4096 x 4096 px`
+* game logo: `594 x 400 px`
+
+<br/>
+
 ## THE SOURCE FILES
 
 Disclaimer!!! I am an Illustrator n00b. Probably that is why I have an obsession with art boards so I use a lot of them. I just want flexibility when exporting.
