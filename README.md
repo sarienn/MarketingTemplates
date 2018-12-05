@@ -1,5 +1,4 @@
-Originally posted on http://www.laurabularca.com/2018/08/an-indie-game-marketing-size-guide-for-social-media-presence/
-
+BRINDIE Free: http://brindie.games/brindie-free/
 # An indie game marketing size guide for social media presence
 
 Building an online presence for your game is a difficult and time consuming task. It’s challenging to build interesting content that will gather attention, but that’s just one part of it. There is a huge amount of work just to get your game’s store, Facebook, Twitter, etc. up and running, and a subset of that work is creating graphical assets that must comply to the size specifications of each online service. This means A LOT of different art asset sizes which, as a game developer, I did on a case by case basis – and that was a huge time sync. This is why I am making this guide and aim to update it regularly, so that asset creation for online social presence can be a little bit less frustrating task.
@@ -232,6 +231,17 @@ Accepted formats: No mention except PNG
 * ansel 360 image `4096 x 4096 px`
 * game logo: `594 x 400 px`
 
+<br/>
+
+
+### Amazon
+
+Accepted formats: PNG, JPG, some with transparency
+* icon 1: `512 x 512 px`
+* icon 2: `114 x 114 px`
+* screenshots: `800 x 480px, 1024 x 600px, 1280 x 720px, 1280 x 800px, 1920 x 1080px, 1920 x 1200px or 2560 x 1600px px`
+* promotional image (landscape only): `1024 x 500 px`
+* video: Up to 5 MPEG-2, WMV, MOV, FLV, AVI, or H.264 MPEG-4, 720 - 1080px wide (4:3 or 16:9); 1200 kbps or higher 
 <br/>
 
 ## THE SOURCE FILES
