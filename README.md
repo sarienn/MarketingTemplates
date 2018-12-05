@@ -239,7 +239,7 @@ Accepted formats: No mention except PNG
 Accepted formats: PNG, JPG, some with transparency
 * icon 1: `512 x 512 px`
 * icon 2: `114 x 114 px`
-* screenshots: `800 x 480px, 1024 x 600px, 1280 x 720px, 1280 x 800px, 1920 x 1080px, 1920 x 1200px or 2560 x 1600px px`
+* screenshots: `800 x 480px, 1024 x 600px, 1280 x 720px, 1280 x 800px, 1920 x 1080px, 1920 x 1200px or 2560 x 1600px`
 * promotional image (landscape only): `1024 x 500 px`
 * video: Up to 5 MPEG-2, WMV, MOV, FLV, AVI, or H.264 MPEG-4, 720 - 1080px wide (4:3 or 16:9); 1200 kbps or higher 
 <br/>
