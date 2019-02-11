@@ -251,7 +251,6 @@ Accepted formats: JPEG, PNG, GIF, BMP; max 200MB
 * project main image: `700 x 800 px`
 * project image: `1024 x 576 px`
 * the elusive banners in the Description section (height is 340 in this template): `680 x 340 px`
-* video: Up to 5 MPEG-2, WMV, MOV, FLV, AVI, or H.264 MPEG-4, 720 - 1080px wide (4:3 or 16:9); 1200 kbps or higher 
 <br/>
 
 ## THE SOURCE FILES
