@@ -262,6 +262,13 @@ Accepted formats: JPEG, PNG, GIF (even animated!)
 * devlog image: `500 x 281 px` (16:9, min widht `500 px`)
 <br/>
 
+### Print
+Recommended formats: PNG, PDF
+* A3: `3508 x 4960 px`
+* A4: `2480 x 3508 px`
+* A5: `1748 x 2480 px`
+<br/>
+
 ## THE SOURCE FILES
 
 Disclaimer!!! I am an Illustrator n00b. Probably that is why I have an obsession with art boards so I use a lot of them. I just want flexibility when exporting.
