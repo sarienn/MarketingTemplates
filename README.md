@@ -269,6 +269,15 @@ Recommended formats: PNG, PDF
 * A5: `1748 x 2480 px`
 <br/>
 
+### Press Release Template
+A template for preparing great press releases
+<br/>
+
+### Steam Bare Minimum 
+Templates for Steam Store Page, Twitter and Facebook in one single file
+<br/>
+
+
 ## THE SOURCE FILES
 
 Disclaimer!!! I am an Illustrator n00b. Probably that is why I have an obsession with art boards so I use a lot of them. I just want flexibility when exporting.
