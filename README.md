@@ -39,9 +39,8 @@ Accepted formats; mostly .JPG
 * community group header image: `444 x 208 px`
 * community avatars (optional): `184 x 184 px`
 
-
-
 <br/>
+
 ### Steam Community Updates
 
 Accepted formats: .PNG .JPG
