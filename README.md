@@ -42,6 +42,15 @@ Accepted formats; mostly .JPG
 
 
 <br/>
+### Steam Community Updates
+
+Accepted formats: .PNG .JPG
+
+* cover image: `800 x 450 px`
+* header image: `1920 x 622 px`
+* library spotlight banner: `2108 x 460 px`
+
+<br/>
 
 ### Steam Developer Pages
 
